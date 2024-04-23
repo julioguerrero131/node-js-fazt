@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "colors": "^1.4.0",
+    "dayjs": "^1.11.10",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "vaca": "cowsay hola mundo"
+  },
+  "name": "course",
+  "version": "1.0.0",
+  "main": "1.web_vs_node.js",
+  "type": "module",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
